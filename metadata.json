@@ -1,5 +1,5 @@
 {
-  "name": "Nano-Nano Call",
-  "description": "A friendly, age-appropriate AI buddy for kids, focused on geography, numbers, and astronomy.",
+  "name": "Wondertwins Agency",
+  "description": "Leif & Lewie's AI space station — voice buddy Nano, Smash Quiz, Marble Run, and more! Built for 5-year-old twin explorers.",
   "requestFramePermissions": ["microphone"]
 }
